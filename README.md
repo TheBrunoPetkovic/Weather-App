@@ -1,6 +1,6 @@
 # Fullstack Weather App
 
-![App Screenshot](Ubacit link za screenshot.png)
+![App Screenshot](app_screenshot.png)
 
 ## Overview
 
@@ -23,13 +23,13 @@ This fullstack weather app provides real-time weather updates and forecasts for 
 1. **Clone the repository**:
 
     ```
-    git clone https:/LINK ZA OVAJ REPO
+    git clone https://github.com/TheBrunoPetkovic/Weather-App.git
     ```
 
 2. **Install dependencies**:
 
     ```
-    npm install
+    npm install <whatever is underlined when you open code>
     ```
 
 3. **Start the application**:
